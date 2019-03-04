@@ -1,0 +1,304 @@
+{
+"countries" : [{
+	  "id" : 1,
+	  "name" : "Ireland",
+	  "cities" : [{
+		  "id" : 101,
+		  "name" : "Dublin",
+		  "population" : 1000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral"]
+	  },{
+		  "id" : 102,
+		  "name" : "Galway",
+		  "population" : 100000,
+		  "interest" : ["Tourist Information","Pub"]
+	  },{
+		  "id" : 103,
+		  "name" : "Cork",
+		  "population" : 200000,
+		  "interest" : ["Tourist Information","Pub"]
+	  },{
+		  "id" : 104,
+		  "name" : "Limerick",
+		  "population" : 100000,
+		  "interest" : ["Tourist Information","Pub"]
+	  }],
+	  "capital" : 101
+  },{
+	  "id" : 2,
+	  "name" : "United Kingdom",
+	  "cities" : [{
+		  "id" : 201,
+		  "name" : "London",
+		  "population" : 8000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral"]
+	  },{
+		  "id" : 202,
+		  "name" : "Birmingham",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  },{
+		  "id" : 203,
+		  "name" : "Manchester",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 201
+  },{
+	  "id" : 3,
+	  "name" : "United States",
+	  "cities" : [{
+		  "id" : 301,
+		  "name" : "Washington DC",
+		  "population" : 1000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral"]
+	  },{
+		  "id" : 302,
+		  "name" : "New York City",
+		  "population" : 12000000,
+		  "interest" : ["Tourist Information","Statue of Liberty"]
+	  },{
+		  "id" : 303,
+		  "name" : "Los Angeles",
+		  "population" : 8000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 301
+  },{
+	  "id" : 4,
+	  "name" : "Canada",
+	  "cities" : [{
+		  "id" : 401,
+		  "name" : "Ottawa",
+		  "population" : 1000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral"]
+	  },{
+		  "id" : 402,
+		  "name" : "Toronto",
+		  "population" : 5000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 401
+  },{
+	  "id" : 5,
+	  "name" : "Mexico",
+	  "cities" : [{
+		  "id" : 501,
+		  "name" : "Mexico City",
+		  "population" : 12000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral"]
+	  },{
+		  "id" : 502,
+		  "name" : "Tijuana",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  },{
+		  "id" : 503,
+		  "name" : "Ju'e1rez",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  },{
+		  "id" : 504,
+		  "name" : "Acapulco",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 501
+  },{
+	  "id" : 6,
+	  "name" : "Italy",
+	  "cities" : [{
+		  "id" : 601,
+		  "name" : "Rome",
+		  "population" : 6000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral","Vatican"]
+	  },{
+		  "id" : 602,
+		  "name" : "Milan",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information","San Siro"]
+	  },{
+		  "id" : 603,
+		  "name" : "Naples",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 601
+  },{
+	  "id" : 7,
+	  "name" : "Austria",
+	  "cities" : [{
+		  "id" : 701,
+		  "name" : "Vienna",
+		  "population" : 1000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral"]
+	  },{
+		  "id" : 702,
+		  "name" : "Innsbruck",
+		  "population" : 200000,
+		  "interest" : ["Tourist Information"]
+	  },{
+		  "id" : 703,
+		  "name" : "Salzburg",
+		  "population" : 500000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 701
+  },{
+	  "id" : 8,
+	  "name" : "Switzerland",
+	  "cities" : [{
+		  "id" : 801,
+		  "name" : "Bern",
+		  "population" : 1000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral"]
+	  },{
+		  "id" : 802,
+		  "name" : "Zurich",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  },{
+		  "id" : 803,
+		  "name" : "Lausanne",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  },{
+		  "id" : 804,
+		  "name" : "Lugano",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 801
+  },{
+	  "id" : 9,
+	  "name" : "Nigeria",
+	  "cities" : [{
+		  "id" : 901,
+		  "name" : "Lagos",
+		  "population" : 18000000,
+		  "interest" : ["Parliament Building","National Museum"]
+	  },{
+		  "id" : 902,
+		  "name" : "Benin",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 901
+  },{
+	  "id" : 10,
+	  "name" : "China",
+	  "cities" : [{
+		  "id" : 1001,
+		  "name" : "Beijing",
+		  "population" : 25000000,
+		  "interest" : ["Red Square","National Museum"]
+	  },{
+		  "id" : 1002,
+		  "name" : "Hong Kong",
+		  "population" : 13000000,
+		  "interest" : ["Tourist Information"]
+	  },{
+		  "id" : 1003,
+		  "name" : "Macau",
+		  "population" : 7000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 1001
+  },{
+	  "id" : 11,
+	  "name" : "Russia",
+	  "cities" : [{
+		  "id" : 1101,
+		  "name" : "Moscow",
+		  "population" : 5000000,
+		  "interest" : ["Parliament Building","National Museum","Cathedral"]
+	  },{
+		  "id" : 1102,
+		  "name" : "Saint Petersburg",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  },{
+		  "id" : 1103,
+		  "name" : "Novosibirsk",
+		  "population" : 1000000,
+		  "interest" : ["Tourist Information"]
+	  }],
+	  "capital" : 1101
+  },{
+	"id" : 12,
+	"name" : "France",
+	"cities" : [{
+		"id" : 1201,
+		"name" : "Paris",
+		"population" : 7000000,
+		"interest" : ["Parliament Building","National Museum","Cathedral","Eiffel Tower"]
+	},{
+		"id" : 1202,
+		"name" : "Lyon",
+		"population" : 1000000,
+		"interest" : ["Tourist Information"]
+	},{
+		"id" : 1203,
+		"name" : "Bordeaux",
+		"population" : 1000000,
+		"interest" : ["Tourist Information"]
+	}],
+	"capital" : 1201
+},{
+	"id" : 13,
+	"name" : "Netherlands",
+	"cities" : [{
+		"id" : 1301,
+		"name" : "Amsterdam",
+		"population" : 1000000,
+		"interest" : ["Parliament Building","National Museum","Cathedral"]
+	},{
+		"id" : 1302,
+		"name" : "Rotterdam",
+		"population" : 1000000,
+		"interest" : ["Tourist Information"]
+	},{
+		"id" : 1303,
+		"name" : "Utrecht",
+		"population" : 1000000,
+		"interest" : ["Tourist Information"]
+	}],
+	"capital" : 1301
+},{
+	"id" : 14,
+	"name" : "Belgium",
+	"cities" : [{
+		"id" : 1401,
+		"name" : "Brussels",
+		"population" : 1000000,
+		"interest" : ["Parliament Building","National Museum","Cathedral","EU Buildings"]
+	},{
+		"id" : 1402,
+		"name" : "Antwerp",
+		"population" : 1000000,
+		"interest" : ["Tourist Information"]
+	},{
+		"id" : 1403,
+		"name" : "Bruges",
+		"population" : 1000000,
+		"interest" : ["Tourist Information"]
+	}],
+	"capital" : 1401
+}],
+  "bordering" : {
+	  "1" : [2],
+	  "2" : [1,12],
+	  "3" : [4, 5],
+	  "4" : [3],
+	  "5" : [4],
+	  "6" : [7, 8],
+	  "7" : [6, 8],
+	  "8" : [6, 7],
+	  "9" : [],
+	 "10" : [11],
+	 "11" : [10],
+	  "12" : [14,8,2],
+	  "13" : [14],
+	  "14" : [13,12]
+  }
+}
