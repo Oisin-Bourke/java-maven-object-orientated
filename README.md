@@ -1,7 +1,7 @@
 ### Project Title:  World Atlas with Journey Planner
 
 ##### Author: 
-Oisin Bourke (07231368)
+Oisin Bourke
 
 #### Getting Started: 
 The application runs from the main( ) method located at: `src/main/java/Main.java`. `Main.java` sole function is the main( ) method.
