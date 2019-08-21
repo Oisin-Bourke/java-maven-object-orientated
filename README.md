@@ -1,17 +1,17 @@
-###Project Title:  World Atlas with Journey Planner
+### Project Title:  World Atlas with Journey Planner
 
-#####Author: 
+##### Author: 
 Oisin Bourke (07231368)
 
-####Getting Started: 
+#### Getting Started: 
 The application runs from the main( ) method located at: `src/main/java/Main.java`. `Main.java` sole function is the main( ) method.
 
-####Prerequisites:
+#### Prerequisites:
 The application uses Maven dependency management to manage the JSON dependency. The `pom.xml` is located in the root directory.
 
 The JSON data file (`data.json`) used to serialize the atlas and inform bordering status is located in the `src/main/resources` folder.
 
-####Instructions:
+#### Instructions:
 The user is presented with the full contents of the atlas in the following format:
 
 `1) Country: Ireland,	Population: 2800000,	Capital: Dublin.`  
@@ -50,10 +50,10 @@ Finally, the user will be provided with a travel itinerary, such as:
 Internal journeys are made by bus, bordering journeys are made by train, and non-bordering journeys are made by plane via 
 capital cities. Alternative to flying will only be provided when both countries share a mutual border with a 3rd country (as above). 
 
-####Built With
+#### Built With
 Maven - Dependency Management
 
-####Tested 
+#### Tested 
 
 1. The project was built in IntelliJ IDEA and tested incrementally. 
 2. The version includes an Eclipse export `.classpath` and `.project` so that the project can be imported into Eclipse (import 'Existing Maven Projects')
